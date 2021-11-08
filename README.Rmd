@@ -1,0 +1,41 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# stockR
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of stockR is to provide a very basic toolkit for carbon modelers. 
+
+## Installation
+
+You can install the development version of stockR like so:
+
+``` r
+# Download this git repo with git clone, and build it locally.
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+library(stockR)
+## basic example code
+```
+
+## Disclaimer
+This is a very minimal package, and still on VERY early stage (also, part of a class project. More details [here](https://github.com/ricardobarroslourenco/My_First_Repository))
