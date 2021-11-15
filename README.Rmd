@@ -32,14 +32,9 @@ library(devtools)
 install_github("ricardobarroslourenco/stockR")
 ```
 
-## Example
+## Examples
 
-This is a basic example which shows you how to solve a common problem:
-
-```{r example}
-library(stockR)
-## basic example code
-```
+For examples, we recommend looking into the "vignettes" folder.
 
 ## Disclaimer
 This is a very minimal package, and still on VERY early stage (also, part of a class project. More details [here](https://github.com/ricardobarroslourenco/My_First_Repository))
