@@ -14,7 +14,11 @@ modelers.
 You can install the development version of stockR like so:
 
 ``` r
-# Download this git repo with git clone, and build it locally.
+# Load devtools
+library(devtools)
+
+# Load stockR from github
+install_github("ricardobarroslourenco/stockR")
 ```
 
 ## Example
