@@ -1,2 +1,0 @@
-# Export all names -- See reference at: https://kbroman.org/pkg_primer/pages/proper.html
-exportPattern(".")
