@@ -30,10 +30,7 @@ install_github("ricardobarroslourenco/stockR")
 
 For examples, we recommend looking into the “vignettes” folder.
 
-## Documentation
-
-Some description is available at the [package
-page](https://ricardobarroslourenco.github.io/stockR/).
+## Disclaimer
 
 This is a very minimal package, and still on VERY early stage (also,
 part of a class project. More details
