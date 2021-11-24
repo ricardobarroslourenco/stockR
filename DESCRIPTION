@@ -1,0 +1,26 @@
+Package: stockR
+Type: Package
+Title: Provides resources for carbon stock modelers
+Version: 0.3
+Date: 2021-11-07
+Authors@R: 
+    person("Ricardo", "Barros Lourenco", , "barroslr@mcmaster.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-4158-3244"))
+Description: For now, it provides a Digital Elevation Model for the region of Hamilton, Ontario, and a function to convert GeoTIFF files to RDA. Further capabilities will be added soon.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: 
+    R (>= 4.0),
+    ggplot2,
+    raster
+URL: https://github.com/ricardobarroslourenco/stockR
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0),
+    rgdal,
+    knitr,
+    rmarkdown
+Config/testthat/edition: 3
+LazyData: true
+VignetteBuilder: knitr
