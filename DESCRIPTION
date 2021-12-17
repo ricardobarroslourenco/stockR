@@ -1,8 +1,8 @@
 Package: stockR
 Type: Package
 Title: Provides resources for carbon stock modelers
-Version: 0.3
-Date: 2021-11-07
+Version: 0.4
+Date: 2021-12-16
 Authors@R: 
     person("Ricardo", "Barros Lourenco", , "barroslr@mcmaster.ca", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-4158-3244"))
@@ -10,12 +10,14 @@ Description: For now, it provides a Digital Elevation Model for the region of Ha
 License: MIT + file LICENSE
 Encoding: UTF-8
 Depends: 
-    R (>= 4.0),
-    ggplot2,
-    raster
+    R (>= 4.0)
 URL: https://github.com/ricardobarroslourenco/stockR
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
+Imports:
+    ggplot2,
+    raster,
+    graphics
 Suggests: 
     testthat (>= 3.0.0),
     rgdal,

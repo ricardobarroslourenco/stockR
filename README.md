@@ -28,7 +28,10 @@ install_github("ricardobarroslourenco/stockR")
 
 ## Examples
 
-For examples, we recommend looking into the “vignettes” folder.
+For examples, we recommend looking into the “vignettes” folder. The
+vignette “Relief Segmentation” provides a full example of how to zone a
+Digital Elevation Model(DEM) using clustering. The “stockR” vignette
+provides a legacy load and summarization of the same DEM.
 
 ## Disclaimer
 

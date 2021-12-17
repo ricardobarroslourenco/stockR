@@ -1,7 +1,7 @@
-pandoc: 2.14.0.3
-pkgdown: 1.6.1
+pandoc: 2.11.4
+pkgdown: 2.0.1
 pkgdown_sha: ~
 articles:
-  stockR: stockR.html
-last_built: 2021-11-24T02:34Z
+  relief_segmentation: relief_segmentation.html
+last_built: 2021-12-17T04:29Z
 
